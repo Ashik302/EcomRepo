@@ -1,0 +1,6 @@
+export const ADD_TO_CART = "ADD_TO_CART"
+export const REMOVE_ITEM = "REMOVE_ITEM"
+export const INCREMENT = "INCREMENT"
+export const DECREMENT = "DECREMENT"
+export const CART_TOTAL_ITEM = "CART_TOTAL_ITEM"
+export const CART_TOTAL_ITEM_PRICE = "CART_TOTAL_ITEM_PRICE"
